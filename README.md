@@ -1,6 +1,6 @@
 # createQRCodeByJava <br>
 生成二维码有两种形式：不带logo的二维码和带logo的二维码；<br>
-
+不带logo：<br>
 ```
 package code;
 
